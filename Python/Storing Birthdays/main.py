@@ -1,0 +1,5 @@
+name = input("What is your name:")
+year = input("In which year were you born:")
+month = input("In which month were you born:")
+day = input("In which day were you born:")
+print(name, day, "/", month, "/", year)
